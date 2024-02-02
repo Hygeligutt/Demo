@@ -65,3 +65,70 @@ clear
 systemctl poweroff
 systemctl shutdown
 shutdown 
+sudo apt update
+apt install git -y
+apt update -y
+clear
+apt install git -y
+clear
+cat /etc/apt/sources.list
+clear
+cat /etc/debian_version
+cat /etc/apt/sources.list
+clear
+apt install git
+git config --global user.email "you@example.com"
+git config --global user.email "nickynguyen0707@outlook.com"
+dir
+clear
+git config --global user.email "nickynguyen0707@outlook.com"
+git config --global user.name "Hygeligutt"
+git init
+git add .
+pwd
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Hygeligutt/demo.git
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git push -f origin main
+git push -u origin main
+git add .
+git commit -m "Added testfile2.py"
+git push -u origin main
+git push -u origin main
+clear
+pwd
+/root
+dir root
+clear
+git clone https://github.com/Hygeligutt/practice-lab.git
+git checkout -b Hygeligutt-updates
+git clone https://github.com/Hygeligutt/practice-lab.git
+git push -u origin main
+it clone https://github.com/Hygeligutt/practice-lab.git
+git clone https://github.com/Hygeligutt/practice-lab.git
+git checkout -b Nicky-updates
+clear
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Hygeligutt/demo.git
+git push -f origin main
+git add .
+git commit -m "Added testfile2.py"
+git push -f origin main
+git clone https://github.com/Hygeligutt/practice-lab.git
+git checkout -b Nicky-updates
+clear
+git clone https://github.com/Hygeligutt/practice-lab.git
+git checkout -b Nicky-updates
+git add .
+git commit -m "Added testfile2.py"
+git push -u origin main
+git clone https://github.com/Hygeligutt/practice-lab.git
+git checkout -b Nick-updates
